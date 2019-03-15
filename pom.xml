@@ -145,8 +145,8 @@
 								<id>validate</id>
 								<phase>validate</phase>
 								<configuration>
-									<configLocation>target/checkstyle.xml</configLocation>
-									<suppressionsLocation>target/suppressions.xml</suppressionsLocation>
+									<configLocation>CS/checkstyle.xml</configLocation>
+									<suppressionsLocation>CS/suppressions.xml</suppressionsLocation>
 									<includeTestSourceDirectory>true</includeTestSourceDirectory>
 									<encoding>UTF-8</encoding>
 									<consoleOutput>true</consoleOutput>
